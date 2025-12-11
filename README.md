@@ -72,11 +72,16 @@ Works with any game that uses keyboard input
 👤 Author
 
 Jashmi KS
+
 B.Tech CSE
 
 
 ⭐ 3. Your Repository Will Look Like This
+
 Gesture-Control-Game/
+
 │
+
 ├── gesture_controller.py
+
 └── README.md
