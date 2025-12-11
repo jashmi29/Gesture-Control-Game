@@ -49,12 +49,12 @@ PyAutoGUI sends keyboard/mouse signals
 
 
 
-<img width="335" height="252" alt="image" src="https://github.com/user-attachments/assets/84ba4ebf-b3a4-41c2-8951-617cfa5c93c2" />
-<img width="333" height="206" alt="image" src="https://github.com/user-attachments/assets/ffdbd1bc-eba8-4c49-8733-cd1baffa09ff" />
-<img width="342" height="236" alt="image" src="https://github.com/user-attachments/assets/4837ce27-3ed0-4643-83ed-1c457bcfc353" />
-<img width="346" height="236" alt="image" src="https://github.com/user-attachments/assets/10449e88-0042-4874-8665-54e045685073" />
-<img width="344" height="224" alt="image" src="https://github.com/user-attachments/assets/6cc95b65-7313-4b79-b4ea-05a3c050cde1" />
-<img width="348" height="221" alt="image" src="https://github.com/user-attachments/assets/da23e2b4-c464-42b9-aebb-fdbd19239d22" />
+<img width="300" height="252" alt="image" src="https://github.com/user-attachments/assets/84ba4ebf-b3a4-41c2-8951-617cfa5c93c2" />
+<img width="300" height="252" alt="image" src="https://github.com/user-attachments/assets/ffdbd1bc-eba8-4c49-8733-cd1baffa09ff" />
+<img width="300" height="252" alt="image" src="https://github.com/user-attachments/assets/4837ce27-3ed0-4643-83ed-1c457bcfc353" />
+<img width="300" height="252" alt="image" src="https://github.com/user-attachments/assets/10449e88-0042-4874-8665-54e045685073" />
+<img width="300" height="252" alt="image" src="https://github.com/user-attachments/assets/6cc95b65-7313-4b79-b4ea-05a3c050cde1" />
+<img width="300" height="252" alt="image" src="https://github.com/user-attachments/assets/da23e2b4-c464-42b9-aebb-fdbd19239d22" />
 
 
 
@@ -70,7 +70,9 @@ Good lighting improves hand detection
 Works with any game that uses keyboard input
 
 👤 Author
+
 Jashmi KS
+
 B.Tech CSE
 
 
