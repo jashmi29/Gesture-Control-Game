@@ -72,7 +72,6 @@ Works with any game that uses keyboard input
 👤 Author
 
 Jashmi KS
-
 B.Tech CSE
 
 
